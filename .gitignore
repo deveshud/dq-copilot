@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+.venv/
+venv/
+*.egg-info/
+
+# Environment
+.env
+
+# dbt
+transformations/dbt/target/
+transformations/dbt/dbt_packages/
+transformations/dbt/logs/
+
+# Airflow
+airflow.db
+airflow.cfg
+logs/
+
+# OS/editor
+.DS_Store
+.idea/
+.vscode/

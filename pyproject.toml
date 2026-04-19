@@ -1,7 +1,7 @@
 [project]
 name = "dq-copilot"
 version = "0.1.0"
-description = "Add your description here"
+description = "Project scaffold for a multi-agent data quality copilot"
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = []
